@@ -1,2 +1,2 @@
 # Autonomous-IoT-Drone
-This repository describes the flight controller algorithm using kalman filter for accurate Gyro values
+This project is dedicated to the design and realization of a drone with full manual control and basic autonomous capabilities.
